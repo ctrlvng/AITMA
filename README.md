@@ -1,4 +1,4 @@
-# /AITMA - Am I the Masshole?
+# r/AITMA - Am I the Masshole?
 
 As a New Yorker, I would jaywalk in Massachusetts (not Boston, though) but not NYC, but I still thought NYC streets were safer. Am I the Masshole? To determine whether my Massumption was supported, I compared car crash data between Massachusetts and New York.
 
